@@ -15,8 +15,8 @@ Education
 ----------------------------------------------
 
 * 📍 Universiti Teknologi Malaysia (UTM)                                                                                                                           
-Bachelor of Computer Science (Computer Network & Security)
-📅 2024 – Present
+Bachelor of Computer Science (Computer Network & Security)                                                                                                        
+📅 2024 – Present                                                                                                                                                 
 Core areas: Computer Networks, Network Security, Cybersecurity, Database Systems
 
 Relevant coursework:
