@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rhiddhi Subha Siddique
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Rhiddhi Subha Siddique
 ===============================================================================================================================================
 
-Computer Science (Computer Network & Security)
+* <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Computer Icon" width="20" height="20" /> **Computer Science (Computer Network & Security)**
 ----------------------------------------------
 
 Bachelor of Computer Science (Network & Security) student at Universiti Teknologi Malaysia (UTM) with a strong foundation in networking, cybersecurity, and database management. Skilled in system analysis & design, programming, and IT problem-solving.
