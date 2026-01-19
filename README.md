@@ -10,8 +10,8 @@ Known for leadership, effective communication, and presentation skills, I thrive
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at:
- *  [subhasiddique@graduate.utm.my](mailto:subhasiddique@graduate.utm.my)
- *  [subha.rhiddhi@gmail.com](mailto:subha.rhiddhi@gmail.com)
+          [subhasiddique@graduate.utm.my](mailto:subhasiddique@graduate.utm.my)
+          [subha.rhiddhi@gmail.com](mailto:subha.rhiddhi@gmail.com)
 
 
 Education
