@@ -43,7 +43,7 @@ Relevant coursework:
 - 💻 [E-Portfolio](https://github.com/rhiddhi25/E-Portfolio)  
   Central hub showcasing all my academic and technical projects.
 - 
-- 💻 [E-Portfolio for Technology & Information Systems](https://rhiddhi25.github.io/Technology-Information-Systems/)  
+- 💻 [Technology & Information Systems](https://rhiddhi25.github.io/Technology-Information-Systems/)  
   Interactive course portfolio with 6 detailed assignments, reflections, and my design thinking project.
 
 ## My Projects
