@@ -11,7 +11,8 @@ Known for leadership, effective communication, and presentation skills, I thrive
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [subhasiddique@graduate.utm.my](mailto:subhasiddique@graduate.utm.my)
 
-* 🎓 Education
+Education
+----------------------------------------------
 
 Bachelor of Computer Science (Computer Network & Security)
 📍 Universiti Teknologi Malaysia (UTM)
