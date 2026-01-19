@@ -9,7 +9,10 @@ Bachelor of Computer Science (Network & Security) student at Universiti Teknolog
 Known for leadership, effective communication, and presentation skills, I thrive on tackling technical challenges and delivering practical solutions. Always eager to learn, innovate, and contribute to impactful projects.
 
 * 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [subhasiddique@graduate.utm.my](mailto:subhasiddique@graduate.utm.my)
+* ✉️  You can contact me at:
+ *  [subhasiddique@graduate.utm.my](mailto:subhasiddique@graduate.utm.my)
+ *  [subha.rhiddhi@gmail.com](mailto:subha.rhiddhi@gmail.com)
+
 
 Education
 ----------------------------------------------
