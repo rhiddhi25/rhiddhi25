@@ -14,7 +14,7 @@ Known for leadership, effective communication, and presentation skills, I thrive
 Education
 ----------------------------------------------
 
-* 📍 Universiti Teknologi Malaysia (UTM)                                                                                                                           
+📍 Universiti Teknologi Malaysia (UTM)                                                                                                                           
 Bachelor of Computer Science (Computer Network & Security)                                                                                                        
 📅 2024 – Present                                                                                                                                                 
 Core areas: Computer Networks, Network Security, Cybersecurity, Database Systems
